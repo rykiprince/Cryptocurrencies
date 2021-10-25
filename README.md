@@ -26,11 +26,12 @@ Reprocessed the cryptocurrencies data with cluster, reducing dimensions, and PCA
 - predicted clusters 
 ![Screen Shot 2021-10-24 at 6 04 53 PM](https://user-images.githubusercontent.com/66225050/138620455-19c0bb1a-8496-4cf2-a72a-33c148bbd55e.png)
 
-###
+### Visualizing Cryptocurrencies Results
 - 3D Scatter
 ![Screen Shot 2021-10-24 at 6 05 43 PM](https://user-images.githubusercontent.com/66225050/138620524-4f31dd57-59cd-43fd-842d-5c77dbc95a69.png)
 
 - hvplot table
+
 ![Screen Shot 2021-10-24 at 6 06 25 PM](https://user-images.githubusercontent.com/66225050/138620530-fe743fc5-7156-4fdc-b5d6-8d7fe00faf0c.png)
 
 - `hvplot.scatter` plot
